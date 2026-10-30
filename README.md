@@ -89,12 +89,8 @@ Spend rose about 25% in FY2025. The number of POs fell each year while the avera
 
 ## 7. Repository Contents
 
-> Update these names to match your files.
-
 ```
-├── data/
-│   └── cleaned PO data (requester column removed)
-├── Procurement_Spend_Analysis.xlsx
+├── PASS_Purchase_Orders.xlsx   (raw data, cleaned data, Power Query steps and Pivot Tables)
 └── README.md
 ```
 
